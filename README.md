@@ -92,7 +92,7 @@
     <video controls><source src="ANDMESH  - ANUGERAH TERINDAH.mp4" type="video/mp4"></video>
 </section>
     
-    <section>
+<section>
         <h2>Permintaan Maaf</h2>
         <p>Aku tahu, setahun terakhir ini aku banyak berubah. Luka-luka dalam hatiku membuatku tenggelam dalam rasa sakit, dan aku menjadi seseorang yang egois. Aku sadar bahwa aku sering menyalahkanmu atas hal-hal kecil, padahal kamu tidak layak diperlakukan seperti itu.
             Aku menyesali semua kebodohan dan sikapku yang membuat hubungan kita terluka. Aku sadar, kamu adalah seseorang yang selalu berusaha untuk memahami, mendukung, dan mencintaiku meskipun aku sering menyakitimu dengan kata-kata dan sikapku.
@@ -102,7 +102,7 @@
             .</p>
     </section>
 
-    <section>
+<section>
         <h2>Pertemuan Pertama
             20 November - 21 November 2021</h2>
         <div class="gallery">
@@ -118,7 +118,7 @@
         </div>
     </section>
 
-    <section>
+<section>
         <h2>Pertemuan Kedua
             10 Desember - 12 Desember 2021
         </h2>
@@ -145,8 +145,7 @@
         <video controls><source src="20211211174629_MVI_1302.mp4" type="video/mp4">
         </video>
         <p>Disini Baru ketemu Udah Ngebet Ketemu Lagi Dan Di Tanggal 11 Itu Kita Awal Kissing🤭🤭 </p>
-
-    </div>
+</div>
 </section>
 
 <section><h2>Pertemuan Ketiga
@@ -161,7 +160,8 @@
     <img src="IMG20220522133235.jpg" alt="Kenangan 3">
     <img src="IMG20220522133301.jpg" alt="Kenangan 3">
     <img src="IMG20220522133319.jpg" alt="Kenangan 3">
-    <p>Disini Ini Awal Mula Kita Ngeroom Bahkan Pas Tanggal 23 nya Sampe Lupa Foto </p>
+    <p>Disini Ini Awal Mula Kita Ngeroom Bahkan Pas Tanggal 23 nya Sampe Lupa Foto 
+</p>
 
 </div>
 </section>
@@ -198,7 +198,7 @@
         <img src="IMG_20221029_143209.jpg" alt="Kenangan 5"> 
         <p>Dan Di Saat Ini Kita Ketemu Buat HS Doang Keluar Hanya Untuk Makan Dan Jajan</p>
 
-    </div>
+</div>
 </section>
 
 <section>
@@ -219,7 +219,7 @@
         <p>Disini Dah Gak Ketemu Dah Setahun Lebih, 
             Sejujurnya Disni Aku Gak Mau Yang Full Di Kamar Gitu
         Aku Ajakin Kamu Keluar Kamunya Gak Mau </p>
-    </div>
+</div>
 </section>
 
 <section>
@@ -345,29 +345,26 @@
         <video controls><source src="WhatsApp Video 2025-01-04 at 15.13.35_320f907b.mp4" type="video/mp4"></video>
         <video controls><source src="WhatsApp Video 2025-01-04 at 15.13.37_e06f0e0a.mp4" type="video/mp4"></video>
         <video controls><source src="WhatsApp Video 2025-01-04 at 02.15.25_b510f466.mp4" type="video/mp4"></video>
-    </section>
-    
-    <audio autoplay loop>
+</section>
+
+<section>
+<audio autoplay loop>
         <source src="Anugrah Terindah.mp3" type="audio/mpeg">
         Browser Anda tidak mendukung pemutar audio.
     </audio>
+</section>
 
-
-    <section>
+<section>
         <h2>Harapan untukmu</h2>
         <p>Aku tahu, semuanya mungkin tidak lagi sama seperti dulu. Aku tahu aku telah mengecewakanmu, dan aku tak pernah berhenti menyesali itu. Tapi satu hal yang tidak pernah berubah adalah perasaanku padamu. Aku masih mencintaimu, Maa, lebih dari yang bisa kuungkapkan dengan kata-kata.
-
             Aku berharap, dari lubuk hatiku yang paling dalam, kita masih memiliki kesempatan untuk memperbaiki segalanya. Aku ingin kita bisa memulai lagi, dengan cara yang lebih baik, dengan aku yang belajar dari kesalahanku dan berusaha menjadi pasangan yang lebih baik untukmu.
-            
             Aku tidak berharap semuanya langsung kembali seperti dulu, tapi aku ingin kita mencoba lagi, perlahan, untuk saling memahami dan membangun kepercayaan itu lagi. Aku ingin menunjukkan padamu bahwa aku serius, bahwa aku benar-benar ingin memperbaiki semuanya.
-            
             Mala, kamu adalah bagian terpenting dalam hidupku, dan aku tidak ingin menyerah begitu saja. Jika kamu mau, aku akan menunggu. Aku akan membuktikan bahwa cinta kita masih layak untuk diperjuangkan.
-            
             Dari aku yang masih berharap untuk kita.</p>
         <a href="#" class="button">Luv You Evertime😘😘</a>
     </section>
 
-    <footer>
+<footer>
         &copy; #12 Oktober 2021
     </footer>
 </body>
