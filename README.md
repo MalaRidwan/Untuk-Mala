@@ -88,16 +88,16 @@
 
 <section>
     <h2>Hai Sebelum Kamu Scroll Ke Bawah Tolong Play Video Ini Dulu Yah </h2>
-    <video controls><source src="ANUGERAH TERINDAH.mp4" type="video/mp4"></video>
+    <video coontrols><source src="ANUGERAH TERINDAH.mp4" type="video/mp4"></video>
 </section>
     
 <section>
         <h2>Permintaan Maaf</h2>
         <p>Aku tahu, setahun terakhir ini aku banyak berubah. Luka-luka dalam hatiku membuatku tenggelam dalam rasa sakit, dan aku menjadi seseorang yang egois. Aku sadar bahwa aku sering menyalahkanmu atas hal-hal kecil, padahal kamu tidak layak diperlakukan seperti itu.
-            Aku menyesali semua kebodohan dan sikapku yang membuat hubungan kita terluka. Aku sadar, kamu adalah seseorang yang selalu berusaha untuk memahami, mendukung, dan mencintaiku meskipun aku sering menyakitimu dengan kata-kata dan sikapku.
-            Mala, aku ingin meminta maaf dengan sepenuh hati. Aku tidak ingin rasa sakit dan kebodohanku menghancurkan apa yang kita miliki. Aku ingin belajar menjadi lebih baik untukmu, untuk kita.
-            Jika ada sedikit saja ruang di hatimu, aku berharap kamu mau memberiku kesempatan lagi untuk memperbaiki semuanya. Aku mencintaimu, dan aku tidak ingin kehilanganmu.
-            Dari aku yang selalu berharap bisa membuatmu bahagia lagi,.</p>
+Aku menyesali semua kebodohan dan sikapku yang membuat hubungan kita terluka. Aku sadar, kamu adalah seseorang yang selalu berusaha untuk memahami, mendukung, dan mencintaiku meskipun aku sering menyakitimu dengan kata-kata dan sikapku.
+Mala, aku ingin meminta maaf dengan sepenuh hati. Aku tidak ingin rasa sakit dan kebodohanku menghancurkan apa yang kita miliki. Aku ingin belajar menjadi lebih baik untukmu, untuk kita.
+Jika ada sedikit saja ruang di hatimu, aku berharap kamu mau memberiku kesempatan lagi untuk memperbaiki semuanya. Aku mencintaimu, dan aku tidak ingin kehilanganmu.
+Dari aku yang selalu berharap bisa membuatmu bahagia lagi,.</p>
 </section>
 
 <section>
